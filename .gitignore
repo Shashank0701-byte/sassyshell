@@ -11,3 +11,9 @@ wheels/
 .env
 
 data.json
+
+# Go-generated files (TUI)
+tui/build/
+tui/sassysh-tui
+tui/sassysh-tui.exe
+tui/go.sum
